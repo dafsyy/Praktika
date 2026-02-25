@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practic\\CoffeeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF63F6AC-B3E1-467C-9514-97DC497E8FD3}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF63F6AC-B3E1-467C-9514-97DC497E8FD3}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 311,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CoffeeAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\Product.cs",
+              "RelativeToolTip": "CoffeeAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:58:30.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:background="#FFFFFF">
+
+    <!-- Заголовок -->
+    <TextView
+        android:id="@+id/text_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Авторизация"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <!-- Подзаголовок -->
+    <TextView
+        android:id="@+id/text_subtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Введите данные, чтобы войти"
+        android:textSize="14sp"
+        android:textColor="#8E8E93"
+        app:layout_constraintTop_toBottomOf="@id/text_title"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="6dp"/>
+
+
+    <!-- EMAIL -->
+    <EditText
+        android:id="@+id/edit_email"
+        android:layout_width="0dp"
+        android:layout_height="52dp"
+        android:hint="Электронная почта"
+        android:paddingStart="48dp"
+        android:inputType="textEmailAddress"
+        app:layout_constraintTop_toBottomOf="@id/text_subtitle"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="40dp"/>
+
+    <!-- Иконка почты -->
+    <ImageView
+        android:id="@+id/icon_email"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/ic_email"
+        app:layout_constraintBottom_toBottomOf="@id/edit_email"
+        app:layout_constraintStart_toStartOf="@id/edit_email"
+        android:layout_marginStart="12dp"
+        android:layout_marginBottom="14dp"/>
+
+
+    <!-- ПАРОЛЬ -->
+    <EditText
+        android:id="@+id/edit_password"
+        android:layout_width="0dp"
+        android:layout_height="52dp"
+        android:hint="Пароль"
+        android:paddingStart="48dp"
+        android:paddingEnd="48dp"
+        android:inputType="textPassword"
+        app:layout_constraintTop_toBottomOf="@id/edit_email"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="20dp" />
+
+    <!-- Иконка замка -->
+    <ImageView
+        android:id="@+id/icon_lock"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/ic_lock"
+        app:layout_constraintStart_toStartOf="@id/edit_password"
+        app:layout_constraintBottom_toBottomOf="@id/edit_password"
+        android:layout_marginStart="12dp"
+        android:layout_marginBottom="14dp" />
+
+    <!-- ГЛАЗИК ПОКАЗАТЬ/СКРЫТЬ ПАРОЛЬ -->
+    <ImageView
+        android:id="@+id/icon_eye"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/ic_eye"
+        app:layout_constraintEnd_toEndOf="@id/edit_password"
+        app:layout_constraintBottom_toBottomOf="@id/edit_password"
+        android:layout_marginEnd="12dp"
+        android:layout_marginBottom="14dp" />
+
+
+    <!-- Кнопка Войти -->
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="0dp"
+        android:layout_height="52dp"
+        android:text="Войти"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#795548"
+        app:layout_constraintTop_toBottomOf="@id/edit_password"
+        android:layout_marginTop="32dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+    <!-- Создать аккаунт -->
+    <TextView
+        android:id="@+id/text_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Еще нет аккаунта? Регистрация!"
+        android:textColor="#795548"
+        android:textSize="15sp"
+        app:layout_constraintTop_toBottomOf="@id/btn_login"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="16dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

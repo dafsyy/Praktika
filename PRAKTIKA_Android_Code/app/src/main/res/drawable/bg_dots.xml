@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Белый фон -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF"/>
+        </shape>
+    </item>
+
+    <!-- Точки -->
+    <item>
+        <shape android:shape="rectangle">
+            <size android:width="400dp" android:height="800dp"/>
+
+            <bitmap
+                android:src="@drawable/dots_xml_pattern"
+                android:tileMode="repeat" />
+        </shape>
+    </item>
+
+</layer-list>

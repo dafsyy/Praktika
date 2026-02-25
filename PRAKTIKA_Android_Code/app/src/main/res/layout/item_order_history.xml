@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/bg_card_cart"
+    android:layout_marginBottom="12dp">
+
+    <TextView
+        android:id="@+id/tvDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="12.03.2025 14:30"
+        android:textSize="14sp"
+        android:textColor="#8E8E93"/>
+
+    <TextView
+        android:id="@+id/tvCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Items: 3"
+        android:textSize="16sp"
+        android:textColor="#1C1C1E"/>
+
+    <TextView
+        android:id="@+id/tvTotal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Total: $9.00"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="#1C1C1E"/>
+
+</LinearLayout>
