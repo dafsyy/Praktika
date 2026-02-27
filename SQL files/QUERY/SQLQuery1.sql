@@ -1,33 +1,87 @@
-CREATE TABLE Product (
+-- USERS
+CREATE TABLE Users (
     Id INT IDENTITY(1,1) PRIMARY KEY,
-    Name NVARCHAR(200) NOT NULL,
-    Description NVARCHAR(500) NOT NULL,
-    Price DECIMAL(10,2) NOT NULL
+    Name NVARCHAR(100) NOT NULL,
+    Email NVARCHAR(100) NOT NULL UNIQUE,
+    PasswordHash NVARCHAR(200) NOT NULL,
+    CreatedAt DATETIME2 NOT NULL DEFAULT GETDATE()
 );
 
-CREATE TABLE [Order] (
+-- CATEGORY
+CREATE TABLE Categories (
     Id INT IDENTITY(1,1) PRIMARY KEY,
-    CustomerName NVARCHAR(200),
-    Phone NVARCHAR(50),
-    Address NVARCHAR(300),
-    CreatedAt DATETIME,
-    Status NVARCHAR(50)
+    Name NVARCHAR(100) NOT NULL
 );
 
-CREATE TABLE OrderItem (
+-- PRODUCT (обновлён с CategoryId)
+CREATE TABLE Products (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Name NVARCHAR(150) NOT NULL,
+    Description NVARCHAR(MAX) NULL,
+    Price DECIMAL(10,2) NOT NULL,
+    ImageUrl NVARCHAR(300) NULL,
+    CategoryId INT NOT NULL,
+
+    CONSTRAINT FK_Products_Categories
+        FOREIGN KEY (CategoryId)
+        REFERENCES Categories(Id)
+);
+
+-- CART
+CREATE TABLE Carts (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    UserId INT NOT NULL,
+    CreatedAt DATETIME2 NOT NULL DEFAULT GETDATE(),
+
+    CONSTRAINT FK_Carts_Users
+        FOREIGN KEY (UserId)
+        REFERENCES Users(Id)
+);
+
+-- CART ITEM
+CREATE TABLE CartItems (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    CartId INT NOT NULL,
+    ProductId INT NOT NULL,
+    Quantity INT NOT NULL DEFAULT 1,
+
+    CONSTRAINT FK_CartItems_Carts
+        FOREIGN KEY (CartId)
+        REFERENCES Carts(Id),
+
+    CONSTRAINT FK_CartItems_Products
+        FOREIGN KEY (ProductId)
+        REFERENCES Products(Id)
+);
+
+-- ORDER
+CREATE TABLE Orders (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    UserId INT NOT NULL,
+    CustomerName NVARCHAR(150) NOT NULL,
+    Phone NVARCHAR(50) NOT NULL,
+    Address NVARCHAR(300) NOT NULL,
+    CreatedAt DATETIME2 NOT NULL DEFAULT GETDATE(),
+    Status NVARCHAR(50) NOT NULL,
+
+    CONSTRAINT FK_Orders_Users
+        FOREIGN KEY (UserId)
+        REFERENCES Users(Id)
+);
+
+-- ORDER ITEM
+CREATE TABLE OrderItems (
     Id INT IDENTITY(1,1) PRIMARY KEY,
     OrderId INT NOT NULL,
     ProductId INT NOT NULL,
     Quantity INT NOT NULL,
     PriceAtOrder DECIMAL(10,2) NOT NULL,
-    FOREIGN KEY (OrderId) REFERENCES [Order](Id),
-    FOREIGN KEY (ProductId) REFERENCES Product(Id)
-);
 
-INSERT INTO Product (Name, Description, Price) VALUES
-(N'Американо', N'Крепкий черный кофе', 3.0),
-(N'Капучино', N'Кофе с молочной пеной', 3.5),
-(N'Латте', N'Кофе с молоком', 4.0),
-(N'Экспрессо', N'Кофе с молоком', 2.5),
-(N'Макиато', N'Кофе с молоком', 3.2),
-(N'Флэт Уайт', N'Кофе с молоком', 3.8);
+    CONSTRAINT FK_OrderItems_Orders
+        FOREIGN KEY (OrderId)
+        REFERENCES Orders(Id),
+
+    CONSTRAINT FK_OrderItems_Products
+        FOREIGN KEY (ProductId)
+        REFERENCES Products(Id)
+);
