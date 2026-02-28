@@ -3,88 +3,52 @@
   "WorkspaceRootPath": "D:\\practic\\CoffeeAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\data\\coffeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\data\\coffeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\models\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\models\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\models\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\models\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\data\\coffeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\data\\coffeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\controllers\\coffeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\controllers\\coffeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\migrations\\20260226083425_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\migrations\\20260226083425_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\migrations\\20260227072028_initcoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\migrations\\20260227072028_initcoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\migrations\\20260227081955_addorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\migrations\\20260227081955_addorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\migrations\\20260227081205_addcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\migrations\\20260227081205_addcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\migrations\\20260227074550_addusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\migrations\\20260227074550_addusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|d:\\practic\\coffeeapi\\coffeeapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8B670-4EE5-AA65-421F-40C206DB62D2}|CoffeeAPI\\CoffeeAPI.csproj|solutionrelative:coffeeapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,67 +58,33 @@
       "DocumentGroups": [
         {
           "DockedHeight": 311,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Models\\CartItem.cs",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\CartItem.cs",
-              "RelativeToolTip": "CoffeeAPI\\Models\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T07:53:05.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "CoffeeAPI\\Models\\User.cs",
               "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\User.cs",
               "RelativeToolTip": "CoffeeAPI\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T07:43:44.446Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20260227072028_InitCoffee.cs",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Migrations\\20260227072028_InitCoffee.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Migrations\\20260227072028_InitCoffee.cs",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Migrations\\20260227072028_InitCoffee.cs",
-              "RelativeToolTip": "CoffeeAPI\\Migrations\\20260227072028_InitCoffee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T07:20:29.163Z"
+              "WhenOpened": "2026-02-28T07:29:53.097Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CoffeesController.cs",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Controllers\\CoffeesController.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Controllers\\CoffeesController.cs",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Controllers\\CoffeesController.cs",
-              "RelativeToolTip": "CoffeeAPI\\Controllers\\CoffeesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CoffeeAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\Product.cs",
+              "RelativeToolTip": "CoffeeAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T08:37:18.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Coffee.cs",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\Coffee.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Models\\Coffee.cs",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\Coffee.cs",
-              "RelativeToolTip": "CoffeeAPI\\Models\\Coffee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T08:26:08.155Z"
+              "WhenOpened": "2026-02-28T07:29:51.702Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -164,83 +94,75 @@
               "RelativeDocumentMoniker": "CoffeeAPI\\Models\\OrderItem.cs",
               "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\OrderItem.cs",
               "RelativeToolTip": "CoffeeAPI\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T07:35:02.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CoffeeDbContext.cs",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Data\\CoffeeDbContext.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Data\\CoffeeDbContext.cs",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Data\\CoffeeDbContext.cs",
-              "RelativeToolTip": "CoffeeAPI\\Data\\CoffeeDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T07:36:10.672Z",
+              "WhenOpened": "2026-02-28T07:29:50.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "CoffeeAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA4wCIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T07:47:41.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\Order.cs",
               "RelativeDocumentMoniker": "CoffeeAPI\\Models\\Order.cs",
               "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\Order.cs",
               "RelativeToolTip": "CoffeeAPI\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T08:18:32.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Models\\Product.cs",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\Product.cs",
-              "RelativeToolTip": "CoffeeAPI\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T09:04:04.154Z"
+              "WhenOpened": "2026-02-28T07:29:48.392Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\Coffee.cs",
+              "RelativeDocumentMoniker": "CoffeeAPI\\Models\\Coffee.cs",
+              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\Coffee.cs",
+              "RelativeToolTip": "CoffeeAPI\\Models\\Coffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:29:46.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\Category.cs",
               "RelativeDocumentMoniker": "CoffeeAPI\\Models\\Category.cs",
               "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\Category.cs",
               "RelativeToolTip": "CoffeeAPI\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T09:04:53.914Z"
+              "WhenOpened": "2026-02-28T07:29:45.284Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Controllers\\CartController.cs",
-              "RelativeToolTip": "CoffeeAPI\\Controllers\\CartController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAcwEEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "CoffeeAPI\\Models\\CartItem.cs",
+              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Models\\CartItem.cs",
+              "RelativeToolTip": "CoffeeAPI\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T08:13:21.056Z"
+              "WhenOpened": "2026-02-28T07:29:43.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoffeeDbContext.cs",
+              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Data\\CoffeeDbContext.cs",
+              "RelativeDocumentMoniker": "CoffeeAPI\\Data\\CoffeeDbContext.cs",
+              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Data\\CoffeeDbContext.cs",
+              "RelativeToolTip": "CoffeeAPI\\Data\\CoffeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:29:38.244Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -250,105 +172,49 @@
               "RelativeDocumentMoniker": "CoffeeAPI\\Controllers\\OrdersController.cs",
               "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "CoffeeAPI\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T08:22:54.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20260227081955_AddOrders.cs",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Migrations\\20260227081955_AddOrders.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Migrations\\20260227081955_AddOrders.cs",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Migrations\\20260227081955_AddOrders.cs",
-              "RelativeToolTip": "CoffeeAPI\\Migrations\\20260227081955_AddOrders.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T08:19:56.003Z"
+              "WhenOpened": "2026-02-28T07:29:31.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20260227081205_AddCart.cs",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Migrations\\20260227081205_AddCart.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Migrations\\20260227081205_AddCart.cs",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Migrations\\20260227081205_AddCart.cs",
-              "RelativeToolTip": "CoffeeAPI\\Migrations\\20260227081205_AddCart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "CoffeesController.cs",
+              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Controllers\\CoffeesController.cs",
+              "RelativeDocumentMoniker": "CoffeeAPI\\Controllers\\CoffeesController.cs",
+              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Controllers\\CoffeesController.cs",
+              "RelativeToolTip": "CoffeeAPI\\Controllers\\CoffeesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T08:12:05.543Z"
+              "WhenOpened": "2026-02-28T07:29:21.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "CoffeeAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-26T07:55:02.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Program.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Program.cs",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Program.cs",
-              "RelativeToolTip": "CoffeeAPI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "CoffeeAPI\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "CoffeeAPI\\Controllers\\CartController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T07:42:26.637Z"
+              "WhenOpened": "2026-02-28T07:29:16.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20260227074550_AddUsers.cs",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Migrations\\20260227074550_AddUsers.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Migrations\\20260227074550_AddUsers.cs",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Migrations\\20260227074550_AddUsers.cs",
-              "RelativeToolTip": "CoffeeAPI\\Migrations\\20260227074550_AddUsers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CoffeeAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CoffeeAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T07:45:50.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "CoffeeAPI\\appsettings.Development.json",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\appsettings.Development.json",
-              "RelativeToolTip": "CoffeeAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-26T07:37:44.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "CoffeeAPI\\appsettings.json",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\appsettings.json",
-              "RelativeToolTip": "CoffeeAPI\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-26T07:37:33.457Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20260226083425_InitialCreate.cs",
-              "DocumentMoniker": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Migrations\\20260226083425_InitialCreate.cs",
-              "RelativeDocumentMoniker": "CoffeeAPI\\Migrations\\20260226083425_InitialCreate.cs",
-              "ToolTip": "D:\\practic\\CoffeeAPI\\CoffeeAPI\\Migrations\\20260226083425_InitialCreate.cs",
-              "RelativeToolTip": "CoffeeAPI\\Migrations\\20260226083425_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T08:34:25.422Z"
+              "WhenOpened": "2026-02-27T07:47:41.806Z",
+              "EditorCaption": ""
             }
           ]
         }
